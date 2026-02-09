@@ -1,0 +1,8 @@
+[package]
+name = "rust-actix-rhai-api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4"
+rhai = "1.24.0"    
