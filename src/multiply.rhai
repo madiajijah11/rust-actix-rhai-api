@@ -1,5 +1,5 @@
-fn multiply(a, b) -> {
-    return a * b;
+fn multiply(a, b) {
+    a * b;
 }
 
 let a = a();

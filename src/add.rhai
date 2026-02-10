@@ -1,8 +1,8 @@
-fn add(a, b) -> {
-    return a + b;
+fn add(a, b) {
+    a + b
 }
 
 let a = a();
 let b = b();
 
-multiply(a, b);
+add(a, b);
